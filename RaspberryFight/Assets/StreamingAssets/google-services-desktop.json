@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136499298340",
+    "firebase_url": "https://raspberryfight-4d604-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "raspberryfight-4d604",
+    "storage_bucket": "raspberryfight-4d604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136499298340:android:a4afe07844a5f113f4d8b1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Fyght"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136499298340-s6vfvntr259jfq0hpb4m1e88mof8so19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkXQXWg5U-81EGlarbfay1P9nn4REDWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136499298340-s6vfvntr259jfq0hpb4m1e88mof8so19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

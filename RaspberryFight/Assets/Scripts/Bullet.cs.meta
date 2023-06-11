@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:My project/Assets/Scripts/Attack/SpecialInput.cs.meta
+guid: f19e6c39621cc1e4caaac9e60201ce04
+========
+guid: 736989972a505714b8128e86b91cfec2
+>>>>>>>> 98ec22f9628054e6fcc5782f2838ed68889ed917:My project/Assets/Scripts/Bullet.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

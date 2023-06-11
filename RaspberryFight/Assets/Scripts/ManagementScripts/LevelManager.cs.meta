@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:My project/Assets/Scripts/ManagementScripts/LevelManager.cs.meta
+guid: 78ab6cd5d72921d4c92aee60f14d85ce
+=======
+<<<<<<<< HEAD:My project/Assets/Scripts/LevelManager.cs.meta
+guid: 1b7158d3e3131014ab5f174b2ba2fddb
+========
+guid: babf42ec92639b340945c43705e687d0
+>>>>>>>> dccd5a764fce382dc45f3059af5136cf931ee941:My project/Assets/Scripts/PauseMenu.cs.meta
+>>>>>>> 348b60bc3deae8f4b5e262ccb4be6e718172d0de:My project/Assets/Scripts/LevelManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
